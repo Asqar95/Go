@@ -10,3 +10,4 @@ func main() {
 
 	fmt.Println(reflect.TypeOf(message))
 }
+ffsdfas
